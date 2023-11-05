@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../Frontend/web-studio"
+		},
+		{
+			"path": "../../Frontend/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web-studio",
+		"deepscan.enable": true
+	}
+}
